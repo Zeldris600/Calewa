@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "A simple calculator for handling basic arithmetic operations",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "KAMLEWA Intern (s)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node": "^26.10.0"
+  }
+}
