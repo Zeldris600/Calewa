@@ -1,6 +1,7 @@
 {
   "name": "y",
   "version": "0.0.1",
+<<<<<<< HEAD
   "description": "A simple calculaor for handling basic arithmetic",
   "keywords": [
     "y"
@@ -12,10 +13,25 @@
   "license": "Apache-2.0",
   "author": "KAMLEWA Intern (s)",
   "type": "commonjs",
+=======
+  "description": "A simple calculator for handling basic arithmetic operations",
+>>>>>>> f0c0f885f774010c253d0468d8862e7d3ade154f
   "main": "y",
   "scripts": {
     "test": "y"
   },
+<<<<<<< HEAD
+=======
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "KAMLEWA Intern (s)",
+  "license": "UNLICENSED",
+>>>>>>> f0c0f885f774010c253d0468d8862e7d3ade154f
   "dependencies": {
     "node": "^26.10.0"
   }
