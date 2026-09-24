@@ -4,7 +4,7 @@ const Calculator = {
     if (weightKg <= 0 || heightMeters <= 0) {
       throw new Error("Weight and height must be positive numbers greater than zero.");
     }
-
+// formula to calculate bmi weight/height*height
     const bmiValue = weightKg / Math.pow(heightMeters, 2);
 
     return {
